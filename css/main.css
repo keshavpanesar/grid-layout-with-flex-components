@@ -57,5 +57,6 @@ body {
 
 .emoji p{
   order: 3;
+  height: 100px;
   margin: 20px auto;
 }
